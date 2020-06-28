@@ -1,0 +1,2 @@
+# Library
+Bukkit Library plugin.
