@@ -10,7 +10,7 @@
 
     <parent>
         <groupId>com.ddylan</groupId>
-        <artifactId>tbd</artifactId>
+        <artifactId>nrs</artifactId>
         <version>1.0-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
