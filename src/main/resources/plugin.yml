@@ -1,5 +1,5 @@
-name: xLib
+name: Library
 version: ${git.commit.id.abbrev}
-main: com.ddylan.xlib.xLib
+main: com.ddylan.library.Library
 author: ${project.author}
 depend: [ProtocolLib, LunarClient-API]
