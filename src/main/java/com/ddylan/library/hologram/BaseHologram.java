@@ -14,11 +14,11 @@ import com.ddylan.library.tab.TabUtils;
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.Iterators;
 import mkremins.fanciful.shaded.gson.internal.Pair;
-import net.minecraft.server.v1_7_R4.v1_7_R4.PacketPlayOutEntityDestroy;
+import net.minecraft.server.v1_7_R4.PacketPlayOutEntityDestroy;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.Location;
-import org.bukkit.craftbukkit.v1_7_R4.v1_7_R4.entity.CraftPlayer;
+import org.bukkit.craftbukkit.v1_7_R4.entity.CraftPlayer;
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.Player;
 

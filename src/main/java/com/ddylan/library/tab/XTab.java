@@ -3,11 +3,11 @@ package com.ddylan.library.tab;
 import com.ddylan.library.packet.ScoreboardTeamPacketMod;
 import com.ddylan.library.LibraryPlugin;
 import lombok.Getter;
-import net.minecraft.server.v1_7_R4.v1_7_R4.EntityPlayer;
+import net.minecraft.server.v1_7_R4.EntityPlayer;
 import net.minecraft.util.com.mojang.authlib.GameProfile;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
-import org.bukkit.craftbukkit.v1_7_R4.v1_7_R4.entity.CraftPlayer;
+import org.bukkit.craftbukkit.v1_7_R4.entity.CraftPlayer;
 import org.bukkit.entity.Player;
 
 import java.util.*;

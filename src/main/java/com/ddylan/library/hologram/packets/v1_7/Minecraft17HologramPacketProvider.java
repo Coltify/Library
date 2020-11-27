@@ -7,7 +7,7 @@ import com.comphenix.protocol.wrappers.WrappedDataWatcher;
 import com.ddylan.library.hologram.HologramLine;
 import com.ddylan.library.hologram.packets.HologramPacket;
 import com.ddylan.library.hologram.packets.HologramPacketProvider;
-import net.minecraft.server.v1_7_R4.v1_7_R4.MathHelper;
+import net.minecraft.server.v1_7_R4.MathHelper;
 import org.bukkit.ChatColor;
 import org.bukkit.Location;
 

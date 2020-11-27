@@ -11,7 +11,7 @@ public class UUIDCache {
 
     public UUIDCache() {
         try {
-            impl = (UUIDCacheable)Class.forName(LibraryPlugin.getInstance().getConfig().getString("UUIDCacheable.Backend", "com.ddylan.xlib.uuid.impl.RedisUUIDCache")).newInstance();
+            impl = (UUIDCacheable)Class.forName(LibraryPlugin.getInstance().getConfig().getString("UUIDCacheable.Backend", "com.ddylan.library.uuid.impl.RedisUUIDCache")).newInstance();
         } catch (Exception e) {
             e.printStackTrace();
         }

@@ -57,7 +57,7 @@ public class LibraryPlugin extends JavaPlugin {
         instance = this;
         saveDefaultConfig();
 
-        lunarAPI = (LunarClientAPI) getServer().getPluginManager().getPlugin("LunarClient-API");
+//        lunarAPI = (LunarClientAPI) getServer().getPluginManager().getPlugin("LunarClient-API");
 
         //  possibly librato?
         //  mongo impl

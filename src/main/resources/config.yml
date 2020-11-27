@@ -5,7 +5,7 @@ BackboneRedis:
   Host: '0.0.0.0'
   DbId: 0
 UUIDCache:
-  Backend: 'com.ddylan.xlib.uuid.impl.RedisUUIDCache'
+  Backend: 'com.ddylan.library.uuid.impl.RedisUUIDCache'
 NametagPacketRestriction:
   Enabled: false
   BypassPrefix: '&a'
